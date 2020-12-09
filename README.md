@@ -1,4 +1,4 @@
-## :rocket: example of useCalback/useMemo.
+## :rocket: example of useCalback/useMemo
 
 memorizar valor: useMemo
 
